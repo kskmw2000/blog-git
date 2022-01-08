@@ -23,6 +23,21 @@
 
 ## youtube
 - whiteship : https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA
+- 보안 프로젝트 : https://www.youtube.com/user/ngnicky1209
+- eo : https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q
+- code Scalper : https://www.youtube.com/channel/UC1wWTimSew9rYzEZRVYVlbg
+- Java Growth : https://www.youtube.com/channel/UCEINBJ9h2Ivm_hN90LhbmBQ
+- 남궁성의 정석코딩 : https://www.youtube.com/user/MasterNKS
+- SpringDeveloper : https://www.youtube.com/user/SpringSourceDev
+- Java Brain : https://www.youtube.com/c/JavaBrainsChannel
+- 44Bits : https://www.youtube.com/c/44BITSTV
+- 양재동 코드랩 : https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg
+
+## MongoDB
+- https://www.mongodb.com/
+
+## ELK(Elastic Search Stack + Logstash + Kibana)
+- https://www.elastic.co/kr/
 
 ## react
 - react 공식 사이트 : https://reactjs.org
@@ -30,6 +45,10 @@
 
 ## vue
 - vue 공식 사이트 : https://vuejs.org
+
+## svelte
+- svelte 공식 사이트 : https://svelte.dev/
+- svelte kit 공식 사이트 : https://kit.svelte.dev/
 
 ## container
 - potainer : https://www.portainer.io
