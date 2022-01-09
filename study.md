@@ -1,0 +1,27 @@
+## 공부해야 하는 것
+- Library
+  - UUID
+  - NanoID
+- React
+  - Nextjs
+- Node
+  - Nestjs
+  - Fastify
+  - Express
+- Svelte
+  - 2022.01 가장 빨리 만나는 스벨트 책 정독중.
+- Database
+  - Mysql
+  - Oracle
+  - MongoDB
+- Server
+  - nginx
+- Cloud
+  - AWS
+  - GCP(Google Cloud Platform)
+- Elastic Stack
+- IDL(Interface Definition Language)
+  - gRPC
+  - XML
+  - JSON
+- swagger 적용
